@@ -1,6 +1,6 @@
 # Clari
 
-Este repositório contém a estrutura inicial do backend do **Clari**, um app de coaching de rotina com IA.  
+Este repositório contém a estrutura inicial do backend da **Clari**, um app de coaching de rotina com IA.  
 Nesta versão, está implementado o **módulo completo de autenticação**, incluindo:
 
 - Registro com e-mail e senha
